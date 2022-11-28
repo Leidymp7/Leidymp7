@@ -3,7 +3,7 @@
 </div>
 - 👋 Hi, I’m @Leidymp7.
 
-- 👀 I’m interested in Python.
+- 👀 This race is simple but fun and interesting to run.
 
 - 🌱 I’m currently learning Python and Data Science
 
